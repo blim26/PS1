@@ -20,7 +20,7 @@ public class Rectangle {
 		// TODO Implement Area() function with the correct formula
 		return Length*Width;
 		/*
-		 GitHub username: blim26
+		 GitHub user name: blim26
 		 */
 	}	
 }
